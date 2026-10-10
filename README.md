@@ -4,12 +4,6 @@ Welcome to my personal website repository, created for the **Hack Club StarDance
 
 ## 🌐 Live Demo
 Check out my live website here:  
-👉 **[View My Site](# 🚀 My Personal Website
-
-Welcome to my personal website repository, created for the **Hack Club StarDance** mission!
-
-## 🌐 Live Demo
-Check out my live website here:  
 👉 **[View My Site](https://yourusername.github.io/your-repo-name/)**
 
 ## 🛠️ Built With
@@ -18,22 +12,8 @@ Check out my live website here:
 * **GitHub Pages**
 
 ## ✨ Features
-* **About Me:** Information about who I am and what I build.
-* **Projects:** Showcase of my recent coding projects.
-* **Responsive Layout:** Works on mobile and desktop screens.
+* **About Me:** I am a Beginner who is willing to start to build amazing projects
+* **Projects:** This is my First Project So I am planning what to do next.
 
 ---
-*Built with ❤️ for Hack Club Star Dance*)**
-
-## 🛠️ Built With
-* **HTML5**
-* **CSS3**
-* **GitHub Pages**
-
-## ✨ Features
-* **About Me:** Information about who I am and what I build.
-* **Projects:** Showcase of my recent coding projects.
-* **Responsive Layout:** Works on mobile and desktop screens.
-
----
-*Built with ❤️ for Hack Club StarDance*
+*Built for Hack Club Star Dance*)**
