@@ -7,7 +7,7 @@ body {
     padding: 0;
     background-color: #ffffff;
     color: #1e293b; 
-    font-family: "Georgia", "Times New Roman", serif;
+    font-family: "Georgia", "Times New Roman", serif; 
     font-size: 18px;
     line-height: 1.7;
 }
@@ -19,7 +19,7 @@ body {
 }
 
 .navbar {
-    background-color: #0b1e36;
+    background-color: #0b1e36; 
     padding: 20px 40px;
     display: flex;
     justify-content: space-between;
@@ -56,12 +56,11 @@ body {
 }
 
 .nav-links a:hover {
-    color: #cbd5e1;
+    color: #cbd5e1; 
 }
 
-
 .hero {
-    background-color: #f4f7fa;
+    background-color: #f4f7fa; 
     padding: 90px 40px;
     text-align: center;
     border-bottom: 1px solid #e2e8f0;
@@ -76,7 +75,7 @@ body {
 }
 
 .hero .highlight {
-    color: #1d4ed8;
+    color: #1d4ed8; 
 }
 
 .hero .tagline {
@@ -85,7 +84,6 @@ body {
     max-width: 650px;
     margin: 0 auto 35px auto;
 }
-
 
 .btn {
     display: inline-block;
@@ -103,7 +101,6 @@ body {
 .btn:hover {
     background-color: #1e3a8a;
 }
-
 
 .section {
     padding: 60px 0;
