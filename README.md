@@ -1,5 +1,7 @@
 # My Personal Website
 
+<img width="1349" height="466" alt="Capture 2" src="https://github.com/user-attachments/assets/40bf67d6-f245-4642-b8cb-f12c5946f401" />
+
 **Welcome to my personal website repository.**
 
 **This website is built on part of** ***Star Dance Hack Club Challenge***
