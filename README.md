@@ -1,6 +1,6 @@
 # My Personal Website
 
-<img width="1349" height="466" alt="Capture 2" src="https://github.com/user-attachments/assets/40bf67d6-f245-4642-b8cb-f12c5946f401" />
+<img width="1350" height="499" alt="Capture" src="https://github.com/user-attachments/assets/a92b3042-9ab3-4dcb-9599-4b2336200d9c" />
 
 **Welcome to my personal website repository.**
 
